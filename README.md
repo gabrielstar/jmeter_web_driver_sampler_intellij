@@ -17,13 +17,13 @@ resources/
 ````
 #### Usage
 
-####in JMeter:
+##### in JMeter:
 
 1. Checkout this repo
 2. Copy chromedriver to your JMETER_HOME/bin directory
 3. Open wds.jmx scenario in jmeter and run.
 
-####in IntelliJ:
+##### in IntelliJ:
 
 0. Download zip to a folder. Unpack.
 1. In IDE click New -> Project -> From Exisiting Souces. Pick your folder.
@@ -34,7 +34,7 @@ resources/
 6. Open wds.groovy. Set Groovy SDK when prompted.
 7. Run wds.groovy. You are all set! See my video for more.
 
-###How to make it work together ?
+#### How to make it work together ?
 
 See my video here:
 You can follow my video to build the solution from scratch on your machine.
