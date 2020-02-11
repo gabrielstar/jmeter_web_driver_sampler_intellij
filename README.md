@@ -11,9 +11,9 @@ resources/
         wds.jmx - jmeter scenario
         wds_jmeter.groovy - version of WDS sampler for copy-paste to jmeter
   src/
-        wds.groovy - jmeter sampler with necessary mocks alloweing to use IntelliJ IDE (or any other)
+        wds.groovy - jmeter sampler with necessary mocks allowing to use IntelliJ IDE (or any other)
         convert.groovy - converter to clean up wds.groovy to a version understandable by jmeter
-        chromedriver.exe - browser driver used in this repo (update to your browser version)'''`
+        chromedriver.exe - browser driver used in this repo (update to your browser version)
 ````
 #### Usage
 
