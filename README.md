@@ -25,14 +25,17 @@ resources/
 
 ######in IntelliJ:
 
-1. Open folder 
-2. Set Groovy SDK to 2+
-3. Run and develop WDS sampler in wds.groovy
-4. Convert to jmeter version by running convert.groovy
-5. Copy contents of wds_jmeter.groovy to jmeter
-5. Run
+0. Download zip to a folder. Unpack.
+1. In IDE click New -> Project -> From Exisiting Souces. Pick your folder.
+2. Keep clicking next until .. Source folders screen.
+3. Unmark resources directory as source folders. Keep clicking next until SDK selection screen.
+4. in SDK page make sure JDK 1.8 is chosen. Click on "+" button to your right and groovy folder to class path.
+5. Click Next and Finish.
+6. Open wds.groovy. Set Groovy SDK when prompted.
+7. Run wds.groovy. You are all set! See my video for more.
 
 ######How to make it work together ?
 
-See my video:
+See my video here:
+You can follow my video to build the solution from scratch on your machine.
  
