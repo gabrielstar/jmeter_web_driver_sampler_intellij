@@ -36,6 +36,6 @@ resources/
 
 #### How to make it work together ?
 
-See my video here:
+See my video here: https://youtu.be/ppkYbeYeBUk 
 You can follow my video to build the solution from scratch on your machine.
  
