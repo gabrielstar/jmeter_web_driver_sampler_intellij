@@ -38,4 +38,6 @@ resources/
 
 See my video here: https://youtu.be/ppkYbeYeBUk 
 You can follow my video to build the solution from scratch on your machine.
+
+Or read my article on medium: https://medium.com/@gabriel.starczewski/jmeter-web-driver-sampler-how-to-develop-it-with-ide-a50f6e228c51?source=friends_link&sk=acdd96f7ace3dbb6245c3e290e381c55 
  
